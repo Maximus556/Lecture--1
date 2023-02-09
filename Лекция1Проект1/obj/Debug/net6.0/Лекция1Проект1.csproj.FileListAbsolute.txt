@@ -1,0 +1,15 @@
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/bin/Debug/net6.0/Лекция1Проект1
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/bin/Debug/net6.0/Лекция1Проект1.deps.json
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/bin/Debug/net6.0/Лекция1Проект1.runtimeconfig.json
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/bin/Debug/net6.0/Лекция1Проект1.dll
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/bin/Debug/net6.0/Лекция1Проект1.pdb
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/Лекция1Проект1.csproj.AssemblyReference.cache
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/Лекция1Проект1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/Лекция1Проект1.AssemblyInfoInputs.cache
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/Лекция1Проект1.AssemblyInfo.cs
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/Лекция1Проект1.csproj.CoreCompileInputs.cache
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/Лекция1Проект1.dll
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/refint/Лекция1Проект1.dll
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/Лекция1Проект1.pdb
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/Лекция1Проект1.genruntimeconfig.cache
+/Users/macbookretina12/Desktop/Учеба/Лекции С#/Лекция1Проект1/obj/Debug/net6.0/ref/Лекция1Проект1.dll
